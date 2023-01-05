@@ -1,4 +1,7 @@
+mod freeze;
+
 use anchor_lang::prelude::*;
+use freeze::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
